@@ -33,7 +33,7 @@
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)]()
 ---
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanmmurciaua&layout=compact" alt="ivanmmurciaua" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmmurciaua&exclude_repo=PPSS,hada-p1,INGP,streamua,IAPE,IR,ETO,SI,BitUA,SD,GRP6-GRP3-Yelabay,Pruebas,LPP,P2,P3,PED&layout=compact" alt="ivanmmurciaua" />
 
 #### Let's talk
 <p align="center">

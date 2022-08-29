@@ -32,6 +32,9 @@
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)]()
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)]()
 ---
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanmmurciaua&layout=compact" alt="ivanmmurciaua" />
+
 #### Let's talk
 <p align="center">
 <a href="https://t.me/ivanovish10" rel="nofollow">

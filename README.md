@@ -33,9 +33,11 @@
 [![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)]()
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=ivanmmurciaua&show_icons=true" alt="ivanmmurciaua" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmmurciaua&show_icons=true&exclude_repo=PPSS,hada-p1,INGP,streamua,IAPE,IR,ETO,SI,BitUA,SD,GRP6-GRP3-Yelabay,Pruebas,LPP,P2,P3,PED&layout=compact&count_private=true&hide=html,css" alt="ivanmmurciaua" />
+<img src="https://github-readme-stats.vercel.app/api?username=ivanmmurciaua&show_icons=true&theme=dracula" alt="ivanmmurciaua" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmmurciaua&theme=dracula&exclude_repo=PPSS,hada-p1,INGP,streamua,IAPE,IR,ETO,SI,BitUA,SD,GRP6-GRP3-Yelabay,Pruebas,LPP,P2,P3,PED&layout=compact&count_private=true&hide=html,css" alt="ivanmmurciaua" />
+
 ---
+
 #### Let's talk
 <p align="center">
 <a href="https://t.me/ivanovish10" rel="nofollow">

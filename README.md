@@ -6,33 +6,32 @@
 
 ### Languages and Tools:
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)](https://en.cppreference.com/w/)
-[![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)](https://docs.python.org/)
+[![Java](https://img.shields.io/badge/Java-orange?style=style=for-the-badge&flat&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
+[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=style=for-the-badge&flat&logo=c%2B%2B&logoColor=ffffff)](https://en.cppreference.com/w/)
+[![Python](https://img.shields.io/badge/-Python-white?style=style=for-the-badge&flat&logo=python)](https://docs.python.org/)
 
-[![Solidity](https://img.shields.io/badge/-Solidity-659ad2?style=flat&color=000000&logo=Solidity&logoColor=ffffff)](https://docs.soliditylang.org/en/latest/)
-[![Web3](https://img.shields.io/badge/-Web3-659ad2?style=flat&color=282826&logo=web3dotjs&logoColor=FF5F49)](https://docs.soliditylang.org/en/latest/)
-[![Hardhat](https://img.shields.io/badge/-Hardhat-659ad2?logo=&color=282826)]()
-[![OZ](https://img.shields.io/badge/-OpenZeppelin-659ad2?logo=&color=282826)]()
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white)]()
+[![Solidity](https://img.shields.io/badge/-Solidity-659ad2?style=style=for-the-badge&flat&color=000000&logo=Solidity&logoColor=ffffff)](https://docs.soliditylang.org/en/latest/)
+[![Web3](https://img.shields.io/badge/-Web3-659ad2?style=style=for-the-badge&flat&color=282826&logo=web3dotjs&logoColor=FF5F49)](https://docs.soliditylang.org/en/latest/)
+[![Hardhat](https://img.shields.io/badge/-Hardhat-659ad2?style=for-the-badge&flat&logo=&color=282826)]()
+[![OZ](https://img.shields.io/badge/-OpenZeppelin-659ad2?style=for-the-badge&flat&logo=&color=282826)]()
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]() 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)]() 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=style=for-the-badge&flat&logo=html5&logoColor=white)]() 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=style=for-the-badge&flat&logo=css3)]() 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=style=for-the-badge&flat&logo=bootstrap)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=style=for-the-badge&flat&logo=javascript)]()
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-[![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)]()
+[![MySQL](https://img.shields.io/badge/-MySQL-white?style=style=for-the-badge&flat&logo=mysql)]()
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)]() 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)]()
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&flat&logo=git)]()
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&flat&logo=github)]()
 
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)]()
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)]()
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&flat&logo=visual-studio-code&logoColor=007ACC)]()
 
-[![Windows](https://img.shields.io/badge/-Windows-659ad2?style=flat&color=282826&logo=windows)]()
-[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)]()
-[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/-Windows-659ad2?style=for-the-badge&flat&color=282826&logo=windows)]()
+[![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&flat&logo=linux&logoColor=FCC624)]()
+[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=style=for-the-badge&flat&logo=cisco&logoColor=white)]()
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=ivanmmurciaua&show_icons=true&theme=dracula" alt="ivanmmurciaua" />

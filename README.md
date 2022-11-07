@@ -10,7 +10,7 @@
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=style=for-the-badge&flat&logo=c%2B%2B&logoColor=ffffff)](https://en.cppreference.com/w/)
 [![Python](https://img.shields.io/badge/-Python-white?style=style=for-the-badge&flat&logo=python)](https://docs.python.org/)
 
-[![Solidity](https://img.shields.io/badge/-Solidity-659ad2?style=style=for-the-badge&flat&color=000000&logo=Solidity&logoColor=ffffff)](https://docs.soliditylang.org/en/latest/)
+[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/en/latest/)
 [![Web3](https://img.shields.io/badge/-Web3-659ad2?style=style=for-the-badge&flat&color=282826&logo=web3dotjs&logoColor=FF5F49)](https://docs.soliditylang.org/en/latest/)
 [![Hardhat](https://img.shields.io/badge/-Hardhat-659ad2?style=for-the-badge&flat&logo=&color=282826)]()
 [![OZ](https://img.shields.io/badge/-OpenZeppelin-659ad2?style=for-the-badge&flat&logo=&color=282826)]()

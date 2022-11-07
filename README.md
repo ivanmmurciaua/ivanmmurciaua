@@ -6,32 +6,41 @@
 
 ### Languages and Tools:
 
-[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=style=for-the-badge&flat&logo=c%2B%2B&logoColor=ffffff)](https://en.cppreference.com/w/)
-[![Python](https://img.shields.io/badge/-Python-white?style=style=for-the-badge&flat&logo=python)](https://docs.python.org/)
+#### Traditional
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)]()
+[![C&C++](https://img.shields.io/badge/C%20&%20C++-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)]()
 
-[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/en/latest/)
-[![Web3](https://img.shields.io/badge/-Web3-659ad2?style=style=for-the-badge&flat&color=282826&logo=web3dotjs&logoColor=FF5F49)](https://docs.soliditylang.org/en/latest/)
-[![Hardhat](https://img.shields.io/badge/-Hardhat-659ad2?style=for-the-badge&flat&logo=&color=282826)]()
-[![OZ](https://img.shields.io/badge/-OpenZeppelin-659ad2?style=for-the-badge&flat&logo=&color=282826)]()
+#### Web3 Stack
+[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)]()
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge)]()
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge)]()
+[![Web3](https://img.shields.io/badge/-Web3-659ad2?style=for-the-badge&color=000000&logo=web3dotjs&logoColor=FF5F49)]()
+[![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=fff&style=for-the-badge)]()
+[![Hardhat](https://img.shields.io/badge/-Hardhat-659ad2?style=for-the-badge&flat&logo=hardhat&color=282826)]()
+[![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=fff&style=for-the-badge)]()
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=style=for-the-badge&flat&logo=html5&logoColor=white)]() 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=style=for-the-badge&flat&logo=css3)]() 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=style=for-the-badge&flat&logo=bootstrap)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=style=for-the-badge&flat&logo=javascript)]()
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-[![MySQL](https://img.shields.io/badge/-MySQL-white?style=style=for-the-badge&flat&logo=mysql)]()
+#### Web2 Stack
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)]()
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)]()
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+[![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)]()
 
+#### Code Version Control
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&flat&logo=git)]()
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&flat&logo=github)]()
 
-[![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)]()
+#### IDEs
+[![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=for-the-badge&logo=sublime-text)]()
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&flat&logo=visual-studio-code&logoColor=007ACC)]()
 
+#### OS's & Others
 [![Windows](https://img.shields.io/badge/-Windows-659ad2?style=for-the-badge&flat&color=282826&logo=windows)]()
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&flat&logo=linux&logoColor=FCC624)]()
-[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=style=for-the-badge&flat&logo=cisco&logoColor=white)]()
+[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=for-the-badge&logo=cisco&logoColor=white)]()
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=ivanmmurciaua&show_icons=true&theme=dracula" alt="ivanmmurciaua" />

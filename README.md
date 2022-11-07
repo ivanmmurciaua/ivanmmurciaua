@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
-[![Java](https://img.shields.io/badge/Java-orange?style=style=for-the-badge&flat&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=style=for-the-badge&flat&logo=c%2B%2B&logoColor=ffffff)](https://en.cppreference.com/w/)
 [![Python](https://img.shields.io/badge/-Python-white?style=style=for-the-badge&flat&logo=python)](https://docs.python.org/)
 
